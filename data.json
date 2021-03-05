@@ -1,0 +1,12 @@
+{
+   "Person":{
+      "name":"Maya Pedersen",
+      "title":"PARTNER NIVEAUER",
+      "badge":"BRONZE",
+      "score":19,
+      "nextBadge":"Silver",
+      "totalPointsToNextBadge":25,
+      "reviewsScore":4.87,
+      "earnings":23.800
+   }
+}
